@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TaskManagementSystem/static/css/main.1384a5b2.css",
+    "main.js": "/TaskManagementSystem/static/js/main.2d4a49f9.js",
+    "static/js/453.4fb31e69.chunk.js": "/TaskManagementSystem/static/js/453.4fb31e69.chunk.js",
+    "static/media/writingimage.png": "/TaskManagementSystem/static/media/writingimage.284ad651ea36a82f3b5c.png",
+    "static/media/projectdoing.jpeg": "/TaskManagementSystem/static/media/projectdoing.d97cb1670caf980bedcb.jpeg",
+    "static/media/designingimage.jpg": "/TaskManagementSystem/static/media/designingimage.f0bfe209e756c56124a9.jpg",
+    "static/media/studyingimage.jpg": "/TaskManagementSystem/static/media/studyingimage.13b85ff7b6f2e7678689.jpg",
+    "static/media/languageicon.png": "/TaskManagementSystem/static/media/languageicon.86dd7a22665d25c1e46e.png",
+    "static/media/bgimage.jpeg": "/TaskManagementSystem/static/media/bgimage.8806e37f778b54d7f4b6.jpeg",
+    "static/media/backarrrow.png": "/TaskManagementSystem/static/media/backarrrow.f6cb509fa0c78dac6239.png",
+    "index.html": "/TaskManagementSystem/index.html",
+    "main.1384a5b2.css.map": "/TaskManagementSystem/static/css/main.1384a5b2.css.map",
+    "main.2d4a49f9.js.map": "/TaskManagementSystem/static/js/main.2d4a49f9.js.map",
+    "453.4fb31e69.chunk.js.map": "/TaskManagementSystem/static/js/453.4fb31e69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1384a5b2.css",
+    "static/js/main.2d4a49f9.js"
+  ]
+}
